@@ -12,7 +12,7 @@
 | --- | --- |
 | 학번 |  |
 | 이름 |황수아 |
-| GitHub 계정 | totoriri605@gmail.com |
+| GitHub 계정 | totoriri605-oss|
 | 과제 작성일 |2026-09-02  |
 | 사용한 AI 도구 | ChatGPT |
 
@@ -629,7 +629,7 @@ https://github.com/<본인-GitHub-ID>/<본인-저장소>/blob/main/assignments/c
 내 실제 제출 URL:
 
 ```text
-
+https://github.com/totoriri605-oss/ai-database-study/blob/main/assignments/chapter01/chapter01_answer.md
 ```
 
 > LMS에는 위 **본인 저장소의 `chapter01_answer.md` 파일 URL 하나**를 제출합니다.
